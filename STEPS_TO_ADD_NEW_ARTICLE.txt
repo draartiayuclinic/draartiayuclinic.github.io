@@ -1,0 +1,23 @@
+1) CREATE COPY OF html "A1_Glimse_Of_Ayurveda.html"
+2) RENAME THIS TO "NEW ARTICLE.html"
+3) CHANGE THE CONTENT OF THE "NEW ARTILCE.html
+4) OPEN allarticles.html -> scroll down till <div id="colorlib-blog"> section -> under <div class="row"> add following div section
+
+						<div class="article animate-box">
+								<div class="article">
+									<a href="NEW ARTICLE.html" class="blog-img">
+										<img class="img-responsive" src="images/a1_Origins_Of_Ayurveda.png" alt="html5 bootstrap by colorlib.com">
+										<div class="overlay"></div>
+
+									</a>
+									<div class="desc">
+										<h2><a href="NEW ARTICLE.html">A glimpse of Ayurveda</a></h2>
+										<p>Adding introductory lines...</p>-->
+										<div class="link">
+											<span class="read">Read more</h2>
+										</div>
+										
+									</div>
+								</div>
+						</div>
+5) CHECK WEBSITE
